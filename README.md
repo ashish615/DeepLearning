@@ -1,2 +1,4 @@
 # DeepLearning
-learning tutorial using tensorflow and pytorch
+Learning tutorial using tensorflow and pytorch
+## 1. pytorch_basic.ipynb
+Creation of basic pytorch neural network
